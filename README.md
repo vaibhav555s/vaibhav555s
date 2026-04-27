@@ -1,10 +1,10 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Sonawane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20Full-Stack%20Capabilities&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Sonawane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descAlignY=52&descSize=18"/>
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Building+Aesthetic+Web+Apps+%F0%9F%9A%80;Crafting+Data-Driven+Platforms+%F0%9F%A4%96;Problem+Solver+%26+Developer+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Building+Aesthetic+Full-Stack+Apps+%F0%9F%9A%80;Crafting+Data-Driven+Platforms+%F0%9F%A4%96;Problem+Solver+%26+Engineer+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Followers Counter -->
 <p>
@@ -35,7 +35,7 @@
 ```javascript
 const vaibhav = {
     location: "India 🇮🇳",
-    expertise: "Front-End Development",
+    expertise: "Full-Stack Development",
     currentlyLearning: ["Express.js", "MongoDB", "DSA"],
     passions: [
         "Aesthetic UI/UX Design",
@@ -89,7 +89,7 @@ Recognised for Design Thinking Excellence
 #### 📊 Problem Solving
 <br/>
 <a href="https://leetcode.com/u/vaibhavs2005/">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api?username=vaibhavs2005&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/vaibhavs2005?theme=dark&font=Fira%20Code" width="100%" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/GFG-vaibhav555s-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
